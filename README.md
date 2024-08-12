@@ -1,3 +1,4 @@
 # odin-recipes
 This is the project that i will build basic website for food recipes.
 Now to begin with building, I start to collect images and resources of steps and description on https://www.allrecipes.com/. After that, I tried to organize all the images i downloaded to odin-recipes/recipes/img and created index.html in odin-recipes. Following the session, I created 3 more recipes which are lasagna, stuffed-eggplants and zucchini for the purpose of this website.
+The CSS file was created with the knowledge from CSS lecture from The Odin Projects. Making use of this, I have added some slight adjustments to the fonts and the color of the background for this website.
