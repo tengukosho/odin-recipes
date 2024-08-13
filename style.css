@@ -9,11 +9,13 @@ h1 {
 .link {
     font-weight: bolder;
     font-size: 25px;
+    margin: 850px;
 }
 .foodtitle {
     font-size: 45px;
     font-weight: bold;
     font-style: italic;
+    text-align: center;
 }
 #title {
     text-align: center;
